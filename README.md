@@ -8,12 +8,7 @@ Home Assistant integration for Norsup heat pumps using the **PC1004 controller**
 
 This integration works with pool heat pumps using the **Fairland PC1004** controller board, sold under various brand names:
 - Norsup (e.g. P26TX/32)
-- Fairland
-- Poolex
-- Gre
-- Aqua Premium
-- Any heat pump with the AquaTemp WiFi module
-
+  
 ## Requirements
 
 - **RS485 to TCP/IP converter** connected to the heat pump's CN4 RS485 port
