@@ -1,4 +1,4 @@
-# Norsup / Fairland Pool Heat Pump - Home Assistant Integration
+# Norsup Heat Pump - Home Assistant Integration
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
