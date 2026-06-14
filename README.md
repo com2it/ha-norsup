@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
-Home Assistant integration for Norsup, Fairland, Poolex, and other pool heat pumps using the **PC1004 controller** with AquaTemp WiFi module interface.
+Home Assistant integration for Norsup heat pumps using the **PC1004 controller** with AquaTemp WiFi module interface.
 
 ## Compatible devices
 
