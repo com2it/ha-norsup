@@ -1,0 +1,7 @@
+{
+  "name": "Norsup / Fairland Pool Heat Pump",
+  "description": "Home Assistant integration for Norsup, Fairland and compatible pool heat pumps with PC1004 controller",
+  "domains": ["climate", "sensor", "switch"],
+  "iot_class": "local_polling",
+  "render_readme": true
+}
