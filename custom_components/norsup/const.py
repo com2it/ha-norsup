@@ -1,4 +1,4 @@
-"""Constants for the Norsup / Fairland Pool Heat Pump integration."""
+"""Constants for the Norsup Pool Heat Pump integration."""
 
 DOMAIN = "norsup"
 DEFAULT_PORT = 502

@@ -1,4 +1,4 @@
-"""Config flow for Norsup / Fairland Pool Heat Pump integration."""
+"""Config flow for Norsup Pool Heat Pump integration."""
 from __future__ import annotations
 
 import socket

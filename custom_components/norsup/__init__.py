@@ -1,4 +1,4 @@
-"""The Norsup / Fairland Pool Heat Pump integration."""
+"""The Norsup Pool Heat Pump integration."""
 from __future__ import annotations
 
 import logging

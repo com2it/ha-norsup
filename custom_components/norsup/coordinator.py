@@ -1,4 +1,4 @@
-"""DataUpdateCoordinator for Norsup / Fairland Pool Heat Pump."""
+"""DataUpdateCoordinator for Norsup Pool Heat Pump."""
 from __future__ import annotations
 
 import asyncio

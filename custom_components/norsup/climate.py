@@ -1,4 +1,4 @@
-"""Climate platform for Norsup / Fairland Pool Heat Pump."""
+"""Climate platform for Norsup Pool Heat Pump."""
 from __future__ import annotations
 
 from homeassistant.components.climate import (
@@ -62,8 +62,8 @@ class NorsupClimate(CoordinatorEntity[NorsupCoordinator], ClimateEntity):
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, entry.entry_id)},
             name=device_name,
-            manufacturer="Norsup / Fairland",
-            model="PC1004 Inverter Heat Pump",
+            manufacturer="Norsup",
+            model="Pool Heat Pump",
         )
 
     @property

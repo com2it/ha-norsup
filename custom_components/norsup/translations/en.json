@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "Norsup / Fairland Pool Heat Pump",
+        "title": "Norsup Pool Heat Pump",
         "description": "Configure your pool heat pump. Enter the IP address of your RS485-to-TCP converter (e.g. USR-DR134).",
         "data": {
           "host": "IP Address",

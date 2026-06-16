@@ -1,4 +1,4 @@
-"""Sensor platform for Norsup / Fairland Pool Heat Pump."""
+"""Sensor platform for Norsup Pool Heat Pump."""
 from __future__ import annotations
 
 from homeassistant.components.sensor import (
@@ -132,8 +132,8 @@ class NorsupSensor(CoordinatorEntity[NorsupCoordinator], SensorEntity):
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, entry.entry_id)},
             name=device_name,
-            manufacturer="Norsup / Fairland",
-            model="PC1004 Inverter Heat Pump",
+            manufacturer="Norsup",
+            model="Pool Heat Pump",
         )
 
     @property
