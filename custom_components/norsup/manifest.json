@@ -1,7 +1,7 @@
 {
   "domain": "norsup",
   "name": "Norsup Pool Heat Pump",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "documentation": "https://github.com/yourusername/ha-norsup",
   "issue_tracker": "https://github.com/yourusername/ha-norsup/issues",
   "dependencies": [],
